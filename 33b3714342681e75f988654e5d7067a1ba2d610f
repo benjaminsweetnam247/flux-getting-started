@@ -1,0 +1,1 @@
+{"jobID":"71f69719-4876-0fc4-60e6-cd95bb917b18","spec":{"type":"policy","cause":{"Message":"","User":"benjaminsweetnam \u003cben_s247@optusnet.com.au\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
